@@ -1,0 +1,26 @@
+body { background-color: AFAFAF;
+}
+
+
+
+h2 { font-family: Verdana, Geneva, sans-serif; font-size: 32px; 
+font-style: normal; font-variant: normal; font-weight: 700;
+ line-height: 35px;
+ }
+ 
+ 
+ h3 { font-family: Comfortaa; font-size: 14px; 
+ font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
+ color:2F0938;
+ } 
+ 
+ p { font-family: Verdana, Geneva, sans-serif; font-size: 23px; font-style: normal; font-variant: normal;
+ font-weight: 400; line-height: 34px; 
+ }
+
+
+ blockquote { font-family: Comfortaa; font-size: 21px;
+ font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; 
+ color:2F0938;
+ } 
+ 
